@@ -1,11 +1,3 @@
-Entendido. Missão final da fase de planejamento.
-
-Aqui está o **"Project Bible" definitivo e completo** para a versão em português do nosso império, incluindo o novo álbum **"Asfalto e Maré"** e a faixa bônus. Este documento contém toda a nossa história, a metodologia final e cada prompt de produção que criamos, tudo formatado em Markdown para o seu Git.
-
-Este é o mapa do tesouro.
-
----
-
 # VOIDCREST - Project Bible (Versão Brasil)
 
 ## 1. Visão Geral do Projeto
