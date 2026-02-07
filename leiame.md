@@ -626,3 +626,36 @@ The band's ultimate epic power ballad. The song must have a massive, cinematic, 
 ```
 fast, punk, raw, simple, understated, nu-metal, funky
 ```
+
+
+[Intro]
+
+[Verse 1]
+O último eco se perde no ar
+A guerra acabou, por um dia, sei lá
+Eu traço as cicatrizes na palma da mão
+Tentando um futuro nesse imenso chão.
+
+[Chorus]
+E pra cada fantasma que eu carrego em mim
+Vou usar sua memória pra não ter mais fim
+Buscando um sentido nessas linhas do horizonte
+Deixando pra trás tudo que foi por um monte.
+
+[Verse 2]
+Dizem que a flor vale a luta que se tem
+Mas não falam da parte de você que morre também
+Eu vejo seu rosto na multidão
+Um nome sussurrado que é pura emoção.
+
+[Chorus]
+
+[Bridge]
+E se eu cair de novo... e me perder na dor...
+Você será a luz... que me trará calor?
+
+[Solo / Climax]
+EU VOU SEGUIR EM FRENTE ATÉ O FIM!
+SUA LUZ VAI BRILHAR EM MIM!
+
+[Outro]
