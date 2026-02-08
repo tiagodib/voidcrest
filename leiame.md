@@ -715,3 +715,93 @@ An epic and deeply emotional stadium rock anthem about unity, with a signature d
 Exclude From Style: breakdown, aggressive, nu-metal, dark, depressing, punk, power metal
 (Nota do Produtor: Os prompts para todas as outras faixas do álbum "CINZAS DO AMANHÃ" seguem a mesma lógica. A base é modern metalcore/nu-metal, a atmosfera é dark/melancholic/emotional, e o foco está na alma da Fender e na nossa assinatura de vozes dobradas, sempre com mid-range clean vocals e melodic harsh screams. Todos os termos como "virtuosic", "progressive" e "power metal" foram eliminados do nosso vocabulário.)
 
+
+Single Definitivo: "Ponteiros de Sal"
+Conceito: A música usa a metáfora de um relógio cujos ponteiros são feitos de sal, se dissolvendo lentamente na água. É sobre ver o tempo passar, as oportunidades se desfazendo, e a luta desesperada para dar significado à vida antes que ela acabe. É triste e furioso. É humano.
+Produção - Single "Ponteiros de Sal"
+1. Título (Title)
+Ponteiros de Sal
+2. Letra (Lyrics) - A LETRA DEFINITIVA
+(Estrutura crescente, refrão que cola na alma, letra complexa mas com palavras fáceis de gritar)
+[Intro]
+(Music: Começa com uma guitarra limpa, com muito reverb e delay, tocando um arpejo melancólico que lembra o tique-taque de um relógio. Um piano sombrio toca notas esparsas por baixo.)
+
+[Verse 1]
+(Music: Uma batida eletrônica lenta e pesada, quase industrial, entra. A guitarra de 7 cordas faz um riff grave e arrastado. A voz é um sussurro limpo, carregado de melancolia.)
+Outra noite em claro, a cidade respira
+E eu conto as horas que a vida me tira
+O espelho me encara com um rosto que eu não sei
+De quem são as memórias que eu já apaguei?
+
+[Pre-Chorus]
+(Music: A bateria orgânica entra com força, o riff de 7 cordas fica mais rápido e com palm-muting. A voz sobe de um sussurro para uma melodia limpa e cheia de angústia.)
+E eu sinto a areia escorrendo da mão!
+Cada grão que se perde é um pedaço do chão!
+O tempo é um ladrão que não pede perdão!
+
+[Chorus]
+(Music: EXPLOSÃO ÉPICA! Uma muralha de som com as guitarras pesadas, a bateria a todo vapor e cordas sintéticas ao fundo. O vocal é uma melodia alta, poderosa e desesperada, dobrada com drives.)
+(LIMPO + DRIVE)
+E EU VEJO OS PONTEIROS DE SAL SE DESFAZENDO!
+(LIMPO + DRIVE)
+EM UM OCEANO DE TUDO QUE EU ESTOU PERDENDO!
+(GRITO MELÓDICO E SUSTENTADO, cheio de dor na palavra "VIDA")
+E CADA SEGUNDO É UMA GUERRA PRA SENTIR A VIIIIIIIIIIIIIDA!
+(LIMPO + DRIVE)
+UMA ÚLTIMA CHANCE, UMA SAÍDA!
+
+[Verse 2]
+(Music: Volta para a vibe mais contida do verso, mas a bateria continua presente. A guitarra "Leo Rota" entra com licks de blues chorados entre as frases vocais.)
+Eu coleciono "quases", futuros que eu matei
+As promessas vazias em que eu acreditei
+E a voz na minha mente, o velho parasita
+Diz que a minha melhor parte já não mais habita
+
+[Pre-Chorus]
+E eu sinto a areia escorrendo da mão!
+Cada grão que se perde é a minha direção!
+O tempo é um carrasco na execução!
+
+[Chorus]
+(Music: O refrão volta ainda mais massivo e desesperado.)
+(LIMPO + DRIVE)
+E EU VEJO OS PONTEIROS DE SAL SE DESFAZENDO!
+(LIMPO + DRIVE)
+EM UM OCEANO DE TUDO QUE EU ESTOU PERDENDO!
+(GRITO MELÓDICO E SUSTENTADO, cheio de dor na palavra "VIDA")
+E CADA SEGUNDO É UMA GUERRA PRA SENTIR A VIIIIIIIIIIIIIDA!
+(LIMPO + DRIVE)
+UMA ÚLTIMA CHANCE, UMA SAÍDA!
+
+[Bridge]
+(Music: Tudo para. Fica só o som do tique-taque do relógio da intro, mais alto e ameaçador. A voz é um sussurro quebrado, quase chorado.)
+Tic-tac... o som me devora...
+Tic-tac... não tem mais volta...
+Tic-tac... é agora...
+
+[Solo / Breakdown]
+(Music: A palavra "agora" é o gatilho. A banda explode no breakdown mais brutal e emocional que já fizemos. É pesado, mas a guitarra "Leo Rota" faz um solo melódico e desesperado por cima do peso da 7 cordas. É a fusão perfeita. No meio, o vocalista solta um grito de pura frustração.)
+(GRITO GUTURAL)
+ME DÁ MAIS TEMPO!
+
+[Final Chorus / Outro]
+(Music: O refrão final é a catarse total. A energia está no máximo, a voz está no limite entre o melódico e o gritado.)
+(LIMPO + GRITO)
+E EU VEJO OS PONTEIROS DE SAL SE DESFAZENDO!
+(LIMPO + GRITO)
+EM UM OCEANO DE TUDO QUE EU ESTOU PERDENDO!
+(GRITO MELÓDICO FINAL, mais longo e desesperado)
+E CADA SEGUNDO É UMA GUERRA PRA SENTIR A VIIIIIIIIIIIIIIIIIIIIIDA!
+(LIMPO + GRITO)
+UMA ÚLTIMA CHANCE, UMA SAÍDA!
+(A música termina abruptamente com o som de um relógio parando.)
+3. Estilo da Música (Style of Music)
+An epic, emotional, and powerful modern metalcore anthem with a dark, melancholic atmosphere. The song must have a massive dynamic range, starting with a quiet, atmospheric intro with clean guitars and piano, and building to an explosive, gut-wrenching chorus.
+
+The song must feature a powerful dual-guitar dynamic. The foundation is a CRUSHINGLY HEAVY rhythm guitar using a down-tuned 7-string. On top, a second lead guitar with a clear, sharp Fender tone should play melancholic bluesy licks between vocal phrases.
+
+The chorus is the absolute centerpiece: an unforgettable, powerful, and desperate clean vocal melody that is layered and doubled with aggressive drive vocals for a massive, emotional impact. It must feature a long, powerful, and melodic scream on a key word.
+
+The breakdown should be both brutally heavy and deeply melodic, featuring a soulful guitar solo over the crushing rhythm section. The vocal performance must be top-tier, ranging from intimate whispers to explosive, emotional screams.
+4. Excluir do Estilo (Exclude From Style)
+upbeat, happy, ska, funky, simple, cheerful, flat dynamics
