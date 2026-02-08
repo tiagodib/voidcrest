@@ -659,3 +659,59 @@ EU VOU SEGUIR EM FRENTE ATÉ O FIM!
 SUA LUZ VAI BRILHAR EM MIM!
 
 [Outro]
+
+
+PRA TIRAR O CAVALEIIROS DO ZODIIACO
+
+VOIDCREST - Project Bible - A Verdadeira Identidade
+1. O Manifesto da Banda
+Este documento é a alma e o esqueleto da VOIDCREST.
+Nossa Identidade: Somos uma banda de metalcore/rock moderno em português. Nosso nome, VOIDCREST, representa a nossa música: a jornada de se erguer (Crest) a partir do vazio e da dor (Void).
+Nossa Sonoridade (O DNA Definitivo): A nossa identidade sonora é uma fusão de quatro pilares:
+A Base (7 Cordas): O peso esmagador, os riffs graves, arrastados e a fundação sombria do nosso som.
+A Alma (Fender): A melodia, a emoção crua e a alma do blues. Guitarras limpas e atmosféricas, licks chorados e solos cheios de feeling, não de velocidade.
+A Atmosfera: O uso de pianos, sintetizadores e elementos eletrônicos para criar paisagens sonoras melancólicas e épicas, no sentido cinematográfico, não operístico.
+A Assinatura (A Voz Dupla): O nosso elemento mais marcante. Refrões onde a melodia limpa, médio-grave, poderosa e emocional é perfeitamente dobrada por um melodic harsh scream (grito melódico e rasgado), visceral e cheio de dor, criando uma sensação de beleza e agonia simultâneas.
+2. Metodologia de Produção
+AI Singer: Utilizar o AI Singer customizado "VOIDCREST Vocalist", focando em um timbre médio-grave e melódico.
+Estrutura do Prompt:
+Lyrics: Apenas a letra pura em Português-BR, com tags de estrutura ([Intro], etc.).
+Style of Music: O roteiro completo da música em Inglês, detalhando a instrumentação, a dinâmica e a performance de cada seção.
+3. Discografia
+Álbum 1: "STATIC BLOOM"
+Conceito: A jornada sombria e introspectiva através do colapso no "Static" até a transformação.
+(Este álbum representa a nossa fundação. Os prompts originais, embora com a metodologia antiga, já continham o nosso DNA cru.)
+Álbum 2: "CINZAS DO AMANHÃ"
+Conceito: A maturidade após a batalha. A sonoridade é a evolução direta do primeiro álbum, agora com a adição da alma da Fender e a solidificação da nossa assinatura de vozes dobradas. A palavra-chave é EMOÇÃO, não virtuosismo.
+1. Ponteiros de Sal (O Hino Principal)
+Title: Ponteiros de Sal
+Lyrics: [Letra completa em português]
+Style of Music:
+An epic, emotional, and powerful modern metalcore anthem with a dark, melancholic atmosphere. It must have a massive dynamic range, starting quiet with clean guitars and piano, and building to an explosive chorus. It must feature a powerful dual-guitar dynamic (heavy 7-string rhythm, soulful Fender lead). The chorus is the absolute emotional centerpiece: it MUST feature a soaring, mid-range, and desperate clean vocal melody that is layered and doubled with an aggressive, painful, melodic harsh scream. It must feature a long, powerful, melodic harsh scream on the word "VIDA". The breakdown should be both brutally heavy and deeply melodic, featuring a soulful guitar solo.
+Exclude From Style: upbeat, happy, ska, funky, simple, cheerful, flat dynamics, power metal, operatic vocals
+2. Cacos de Vidro
+Title: Cacos de Vidro
+Lyrics: [Letra completa em português]
+Style of Music:
+An emotional and powerful modern metalcore anthem with a melancholic atmosphere. It must feature a powerful dual-guitar dynamic (heavy 7-string foundation, clean atmospheric lead). The chorus is the absolute emotional centerpiece: it MUST feature a soaring, mid-range, clean vocal melody that is perfectly doubled by an aggressive, melodic harsh scream following the exact same notes and rhythm, creating a feeling of simultaneous beauty and agony. The breakdown should be heavy and cathartic, centered on a long, painful scream on "NUNCA MAIS!".
+Exclude From Style: upbeat, happy, funky, ska, punk, simple, cheerful, power metal
+3. Legado de Titã (Versão Corrigida)
+Title: Legado de Titã
+Lyrics: [Letra completa em português]
+Style of Music:
+A 7-minute epic and emotional modern metalcore journey. Start quiet and atmospheric with acoustic guitar and piano. Build tension with a heavy 7-string riff and a soulful, bluesy Fender lead guitar. The chorus is the epic centerpiece: a massive wall of sound with a powerful mid-range clean melody perfectly doubled by a melodic harsh scream. Must feature a long, powerful, melodic harsh scream on the word "HISTÓRIA". The song must include an aggressive instrumental section and a long, deeply emotional, and soulful Fender guitar solo, focused on feeling, not speed. End with gang shouts and a peaceful piano outro.
+Exclude From Style: short, simple, radio-edit, monotonous, pop-punk, power metal, virtuosic shredding
+4. Rei de Papelão (Versão Corrigida)
+Title: Rei de Papelão
+Lyrics: [Letra completa em português]
+Style of Music:
+An aggressive and groovy modern metalcore / nu-metal protest anthem with a dark, defiant atmosphere. The song must start with the lead Fender playing a classic, dirty heavy blues-rock riff. The rhythm must be a CRUSHINGLY HEAVY, down-tuned 7-string. The chorus MUST feature a catchy, powerful, mid-range clean vocal melody that is perfectly doubled by a raw, visceral, and melodic harsh scream. The climax is a long, emotional, and soulful blues-infused Fender guitar solo, full of feeling and aggressive pinch harmonics.
+Exclude From Style: ska, reggae, happy, light, soft, sad, emo, ballad, power metal
+5. Nossa Voz (A Canção da Tribo)
+Title: Nossa Voz
+Lyrics: [Letra completa em português]
+Style of Music:
+An epic and deeply emotional stadium rock anthem about unity, with a signature dual-vocal dynamic. Start quietly with clean guitar arpeggios and piano, building organically. The chorus is the heart of the song: a soaring, unforgettable clean melodic hook, supported and contrasted by a second layer of harsh, aggressive screams, acting as a harmony of pain. The climax is a beautiful, melodic, and soulful Fender guitar solo. The final chorus should have massive gang shouts.
+Exclude From Style: breakdown, aggressive, nu-metal, dark, depressing, punk, power metal
+(Nota do Produtor: Os prompts para todas as outras faixas do álbum "CINZAS DO AMANHÃ" seguem a mesma lógica. A base é modern metalcore/nu-metal, a atmosfera é dark/melancholic/emotional, e o foco está na alma da Fender e na nossa assinatura de vozes dobradas, sempre com mid-range clean vocals e melodic harsh screams. Todos os termos como "virtuosic", "progressive" e "power metal" foram eliminados do nosso vocabulário.)
+
